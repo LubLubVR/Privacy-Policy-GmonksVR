@@ -1,40 +1,33 @@
-# Privacy Policy
+# Privacy Policy for GmonksVR
 
-We take your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
+**Effective Date:** October 25, 2026
 
+LubLubVR is committed to protecting your privacy. This Privacy Policy outlines our practices regarding information collection, use, and deletion for our application, **GmonksVR**.
 
-## Collection of Routine Information
+---
 
-This game tracks basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific users to this game. The information is tracked for routine administration and maintenance purposes.
+### 1. Scope of This Policy
+This Privacy Policy applies strictly to your use of the **GmonksVR** application. By installing and using the app, you agree to the terms outlined in this policy.
 
+### 2. Data Collection
+We believe in complete transparency regarding your information. 
+* **Data Collected:** GmonksVR tracks basic diagnostic information to maintain game performance. This may include IP addresses, app version details, timestamps, and device hardware specifications. 
+* **No Personal Tracking:** We do not collect real-world personal identifiers such as your legal name, physical address, or phone number.
 
-## Cookies
+### 3. Data Processing and Usage
+Any data handled by our application is processed strictly according to the following guidelines:
+* **Core Functionality:** To provide, maintain, and optimize the performance and multiplayer capabilities of GmonksVR.
+* **Optimization:** To troubleshoot software bugs, analyze crashes, and improve overall virtual reality performance.
+* **Third Parties:** We do not sell, rent, or share your data with unauthorized third parties or advertising brokers.
 
-Where necessary, this game uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
+### 4. Data Deletion Instructions
+We fully support your right to control your personal information. If you wish to delete your user data, you can request full data deletion at any time:
+* **Manual Request:** Please send a formal data deletion request by emailing our support team at **murphyisaac7777@gmail.com**.
+* **Processing:** Please provide your relevant in-game username or platform ID. We will permanently scrub and remove your historical data records from our systems within 30 days of receiving your request.
 
+---
 
-## Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track users activities on this game in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This game has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to opt out of Google’s cookie usage here: (http://www.google.com/privacy_ads.html).
-
-
-## Links to Third Party Websites
-
-I have included links on this game for your use and reference. I am not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from my own.
-
-
-## Security
-
-The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
-
-
-## Changes To This Privacy Policy
-
-This Privacy Policy is effective as of 10/25/2060 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided me, or by placing a prominent notice on my game.
-
-
-## Contact Information
-
-For any questions or concerns regarding the privacy policy, please send me an email to murphyisaac7777@gmail.com.
+### 5. Contact Us
+If you have any questions or concerns about this Privacy Policy or data handling, please contact us at:
+* **Developer Group:** LubLubVR
+* **Email:** murphyisaac7777@gmail.com
